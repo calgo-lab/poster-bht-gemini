@@ -1,5 +1,6 @@
 # output
 *.pdf
+!images/*.pdf
 
 # intermediate files
 *.aux
@@ -12,3 +13,4 @@
 *.toc
 *.fdb_latexmk
 *.fls
+*.synctex.gz
