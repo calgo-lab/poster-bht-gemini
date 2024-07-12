@@ -30,6 +30,16 @@ This is a fork of the [Gemini] theme adjusted to the Berlin University of Applie
    line in `poster.tex`, and theme the poster to your liking
 4. Run `make` to build your poster or use your favorite app (take care of using [LuaTex]!)
 
+## Printing
+To print the compiled .pdf, you can use the BHT's Kopierservice: Visit [https://www.bht-berlin.de/kopierservice](https://www.bht-berlin.de/kopierservice) and follow the steps listed in "Verfahren für Mitarbeitende und Lehrende der BHT" if you're an employee, and "Verfahren für Studierende der BHT" if you're a student.
+You will be asked to register in a web form, after which you will gain access to [https://bht.reprotechnik.de/bht/bht.nsf/?OpenDatabase&login](https://bht.reprotechnik.de/bht/bht.nsf/?OpenDatabase&login).
+
+- Log in and add "Fachbereich VI" to your profile information.
+- Log out and back in again for the information to update.
+- You can then create a new print job "Großformat Plot/Kopie".
+- Select A0 as "Endformat", and upload your .pdf.
+- **I recommend you use "Papierart: 240 g/m² glossy" for the best-looking result**.
+
 
 ## FAQ
 
